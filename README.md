@@ -49,9 +49,9 @@ A collaborative tool for automated and human code reviews.
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqsonwane&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishqsonwane&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsonwane&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqsonwane17&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishqsonwane17&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsonwane17&layout=compact&theme=radical)
 
 ## Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishqsonwane17&theme=github)
