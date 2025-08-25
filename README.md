@@ -1,6 +1,6 @@
 # Tanishq Sonwane
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2F81F7&center=true&vCenter=true&width=1000&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2F81F7&center=true&vCenter=true&width=1000&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;)](https://git.io/typing-svg)
 
 ## About Me
 I build unconventional yet functional and visually appealing web applications.  
