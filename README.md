@@ -18,14 +18,35 @@ Currently focusing on backend development, cloud computing, and creating impactf
 ![Lenis](https://img.shields.io/badge/Lenis-111111?style=for-the-badge)
 
 ## Featured Projects
-**Uber Clone**  
-A ride booking platform replicating Uber core features. Built with MERN stack and optimized for scalability with a real time booking experience.
 
-**AI MERN Stack Developer**  
-An AI powered development assistant that helps automate coding tasks, generate snippets, and optimize workflows. Integrates smoothly with the MERN stack.
+### 🚖 Uber Clone
+A full-featured ride booking platform replicating Uber’s core functionality.  
+**Tech Stack:** MERN, WebSockets, Maps API  
+**Highlights:**  
+- Real-time ride booking and tracking  
+- Scalable backend with Node.js and MongoDB  
+- Clean and intuitive React frontend  
 
-**Code Reviewer**  
-A tool for automated and collaborative code review that helps teams maintain clean, efficient, and error free codebases.
+---
+
+### 🤖 AI MERN Stack Developer
+An AI-powered development assistant designed to speed up coding workflows.  
+**Tech Stack:** MERN, OpenAI API, Docker  
+**Highlights:**  
+- Generates optimized code snippets  
+- Automates repetitive development tasks  
+- Integrated seamlessly into existing projects  
+
+---
+
+### 📝 Code Reviewer
+A collaborative tool for automated and human code reviews.  
+**Tech Stack:** MERN, Jenkins, GitHub API  
+**Highlights:**  
+- Automated linting and bug detection  
+- Pull request analysis with suggestions  
+- CI/CD integration for continuous quality checks  
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqsonwane&show_icons=true&theme=radical)  
