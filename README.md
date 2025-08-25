@@ -54,8 +54,8 @@ A collaborative tool for automated and human code reviews.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsonwane&layout=compact&theme=radical)
 
 ## Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishqsonwane17&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishqsonwane17&theme=github)
+
 
 ## Connect
-Portfolio: [your-portfolio-link]  
-LinkedIn: [your-linkedin-link]  
+X.com: [https://x.com/tanxocean]  
