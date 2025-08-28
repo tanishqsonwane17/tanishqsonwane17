@@ -28,8 +28,7 @@ A full-featured ride booking platform replicating Uber’s core functionality.
 - Clean and intuitive React frontend  
 
 ---
-
-### 🤖 AI MERN Stack Developer
+### 🤖 My Own Devin AI
 An AI-powered development assistant designed to speed up coding workflows.  
 **Tech Stack:** MERN, OpenAI API, Docker  
 **Highlights:**  
@@ -39,13 +38,14 @@ An AI-powered development assistant designed to speed up coding workflows.
 
 ---
 
-### 📝 Code Reviewer
-A collaborative tool for automated and human code reviews.  
-**Tech Stack:** MERN, Jenkins, GitHub API  
+### 💬 ChatGPT Clone
+A conversational AI application replicating ChatGPT functionality.  
+**Tech Stack:** MERN, OpenAI API  
 **Highlights:**  
-- Automated linting and bug detection  
-- Pull request analysis with suggestions  
-- CI/CD integration for continuous quality checks  
+- Interactive AI chatbot interface  
+- Handles multi-turn conversations  
+- Provides intelligent responses using OpenAI API
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqsonwane17&show_icons=true&theme=tokyonight&count_private=true&hide=contribs=false&since=2025-01-01)  
