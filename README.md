@@ -48,7 +48,7 @@ A collaborative tool for automated and human code reviews.
 - CI/CD integration for continuous quality checks  
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqsonwane17&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqsonwane17&show_icons=true&theme=tokyonight&count_private=true&hide=contribs=false&since=2025-01-01)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsonwane17&layout=compact&theme=tokyonight)
 
 ## Connect
