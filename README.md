@@ -40,11 +40,11 @@ An AI-powered development assistant designed to speed up coding workflows.
 
 ### 💬 ChatGPT Clone
 A conversational AI application replicating ChatGPT functionality.  
-**Tech Stack:** MERN, OpenAI API  
+**Tech Stack:** MERN, OpenAI API, Gemini  
 **Highlights:**  
 - Interactive AI chatbot interface  
 - Handles multi-turn conversations  
-- Provides intelligent responses using OpenAI API
+- Provides intelligent responses using OpenAI API and Gemini
 
 
 ## GitHub Stats
