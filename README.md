@@ -7,15 +7,15 @@ I build unconventional yet functional and visually appealing web applications.
 Currently focusing on backend development, cloud computing, and creating impactful projects.
 
 ## Skills
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Express.js](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=339933)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
-![GSAP](https://img.shields.io/badge/GSAP-0F172A?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![Lenis](https://img.shields.io/badge/Lenis-111111?style=for-the-badge)
+- MongoDB
+- Express.js
+- React
+- Node.js
+- Docker
+- Jenkins
+- Framer Motion
+- GSAP
+- Lenis
 
 ## Featured Projects
 
@@ -47,16 +47,5 @@ A collaborative tool for automated and human code reviews.
 - Pull request analysis with suggestions  
 - CI/CD integration for continuous quality checks  
 
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqsonwane17&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishqsonwane17&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsonwane17&layout=compact&theme=radical)
-
-
-## Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishqsonwane17&theme=github&area=true&hide_border=false)
-
-
 ## Connect
-X.com: [https://x.com/tanxocean]  
+X.com: [https://x.com/tanxocean](https://x.com/tanxocean)
