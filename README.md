@@ -3,8 +3,8 @@
 Full Stack Web Developer | MERN Stack 
 
 ## About Me
-I build unconventional yet functional and visually appealing web applications.  
-Currently focusing on backend development, cloud computing, and creating impactful projects.
+I don’t just build websites — I craft optimized, high-performance, and scalable web applications.
+
 
 ## Skills
 ![MongoDB](https://img.shields.io/badge/MongoDB-384d3e?style=for-the-badge&logo=mongodb&logoColor=white)
