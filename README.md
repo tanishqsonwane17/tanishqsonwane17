@@ -3,7 +3,7 @@
 Full Stack Web Developer | MERN Stack 
 
 ## About Me
-I don’t just build websites — I craft optimized, high-performance, and scalable web applications.
+I build fast, scalable, and optimized web applications.
 
 
 ## Skills
