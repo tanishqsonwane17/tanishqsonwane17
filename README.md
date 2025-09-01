@@ -10,6 +10,7 @@ Currently focusing on backend development, cloud computing, and creating impactf
 ![MongoDB](https://img.shields.io/badge/MongoDB-384d3e?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Docker](https://img.shields.io/badge/Docker-1b365d?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-2b2b2b?style=for-the-badge&logo=jenkins&logoColor=D24939)
@@ -44,8 +45,7 @@ A conversational AI application replicating ChatGPT functionality.
 **Highlights:**  
 - Interactive AI chatbot interface  
 - Handles multi-turn conversations  
-- Provides intelligent responses using OpenAI API and Gemini
-
+- Provides intelligent responses using OpenAI API and Gemini  
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqsonwane17&show_icons=true&theme=tokyonight&count_private=true&hide=contribs=false&since=2025-01-01)  
