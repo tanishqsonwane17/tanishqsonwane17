@@ -5,7 +5,7 @@ Full Stack Web Developer | MERN Stack |
 ## About Me
 I build fast, scalable, and optimized web applications.
 
-## Full Stack Skills
+## Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
