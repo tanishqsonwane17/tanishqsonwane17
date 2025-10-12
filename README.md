@@ -52,7 +52,8 @@ I build fast, scalable, and optimized web applications.
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
 ## Connect
-X.com: [https://x.com/tanxocean](https://x.com/tanxocean)
-Linkedin: [https://www.linkedin.com/in/tanishq-sonwane-01bb5a382/](https://www.linkedin.com/in/tanishq-sonwane-01bb5a382/)
+
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tanxocean)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-sonwane-01bb5a382/)
+
