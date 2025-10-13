@@ -40,6 +40,6 @@ I build fast, scalable, and optimized web applications.
 
 ## Connect
 
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tanxocean)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-sonwane-01bb5a382/)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codewithbixi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tanishq-sonwane-01bb5a382/](https://www.linkedin.com/in/tanishq-sonwane-01bb5a382/))
 
