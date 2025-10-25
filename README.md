@@ -1,6 +1,6 @@
 # Tanishq Sonwane
 
-Full Stack Web Developer | MERN Stack | 
+Full Stack Web Developer | MERN Stack 
 
 ## About Me
 I build fast, scalable, and optimized web applications.
