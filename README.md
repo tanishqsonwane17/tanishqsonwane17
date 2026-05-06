@@ -46,7 +46,7 @@ I build fast, scalable, and optimized web applications.
 ![LangChain](https://img.shields.io/badge/LangChain-00CED1?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6347?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FFD700?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/PromptEng-7FFF00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompting-7FFF00?style=for-the-badge)
 ![Web3](https://img.shields.io/badge/Web3-2A6DB0?style=for-the-badge)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
