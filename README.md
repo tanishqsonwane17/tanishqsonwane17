@@ -3,7 +3,7 @@
 Software Engineer | Full Stack Developer
 
 ## About Me
-I build fast, scalable, and optimized web applications.
+I build fast, scalable, and optimized web & Mobile applications.
 
 ## Skills
 
